@@ -39,7 +39,7 @@
                             <td>
                                 <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
                             </td>
-                        </tr>success
+                        </tr>
                         <tr>
                             <td>2</td>
                             <td>
