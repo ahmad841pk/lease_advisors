@@ -22,7 +22,7 @@
             <div class="card" style="width: 30%">
                 <div class="card-header">
                     <div class="col-md-6 mb-1" style="width: 100%">
-                        <label class="form-label" for="fp-default"><h3>Expiry Date Filter:</h3></label>
+                        <label class="form-label" for="fp-default"><h3>Expiry Date:</h3></label>
                         <input type="date" class="form-control">
                     </div>
                 </div>
@@ -41,34 +41,34 @@
                         <tbody>
                         <tr>
                             <td>1</td>
-                            <td>Ed Muna</td>
-                            <td>22 Jan, 2024</td>
+                            <td>26 High Street</td>
+                            <td>December 12, 2026</td>
                             <td>
-                                <a class="btn btn-success" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">Upload Contract</a>
                             </td>
                         </tr>
                         <tr>
                             <td>2</td>
-                            <td>Craig Henderlite</td>
-                            <td>22 Jan, 2025</td>
+                            <td>22 Jump Street</td>
+                            <td>January 12, 2026</td>
                             <td>
-                                <a class="btn btn-info" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">Upload Contract</a>
                             </td>
                         </tr>
                         <tr>
                             <td>3</td>
-                            <td>Tina Laser</td>
-                            <td>22 Jan, 2026</td>
+                            <td>Block H, House 32</td>
+                            <td>December 12, 2026</td>
                             <td>
-                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">Upload Contract</a>
                             </td>
                         </tr>
                         <tr>
                             <td>4</td>
-                            <td>Ed Muna</td>
-                            <td>22 Jan, 2024</td>
+                            <td>3F, 8th street</td>
+                            <td>January 12, 2026</td>
                             <td>
-                                <a class="btn btn-warning" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">Upload Contract</a>
                             </td>
                         </tr>
 

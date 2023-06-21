@@ -17,7 +17,7 @@
             <div class="card" style="width: 40%">
                 <div class="card-header">
                     <div class="mb-1" style="width: 100%">
-                        <label class="form-label" for="basicSelect"><h3>Tenants Filter</h3></label>
+                        <label class="form-label" for="basicSelect"><h3>Tenants:</h3></label>
                         <select class="form-select" id="basicSelect">
                             <option>Ed Muna</option>
                             <option>Craig Henderlite</option>
@@ -34,7 +34,7 @@
                         <tr>
                             <th>#</th>
                             <th>Tenants</th>
-                            <th>Expiry Date</th>
+                            <th>Date</th>
                             <th>Actions</th>
                         </tr>
                         </thead>
@@ -42,23 +42,23 @@
                         <tr>
                             <td>1</td>
                             <td>Ed Muna</td>
-                            <td>22 Jan, 2024</td>
+                            <td>December 12, 2024</td>
                             <td>
-                                <a class="btn btn-success" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
                             </td>
                         </tr>
                         <tr>
                             <td>2</td>
                             <td>Craig Henderlite</td>
-                            <td>22 Jan, 2025</td>
+                            <td>January 12, 2025</td>
                             <td>
-                                <a class="btn btn-info" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
                             </td>
                         </tr>
                         <tr>
                             <td>3</td>
                             <td>Tina Laser</td>
-                            <td>22 Jan, 2026</td>
+                            <td>December 12, 2026</td>
                             <td>
                                 <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
                             </td>
@@ -66,9 +66,9 @@
                         <tr>
                             <td>4</td>
                             <td>Ed Muna</td>
-                            <td>22 Jan, 2024</td>
+                            <td>January 12, 2019</td>
                             <td>
-                                <a class="btn btn-warning" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
                             </td>
                         </tr>
 

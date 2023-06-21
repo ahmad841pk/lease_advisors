@@ -39,7 +39,7 @@
                             <td>
                                 <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
                             </td>
-                        </tr>
+                        </tr>success
                         <tr>
                             <td>2</td>
                             <td>
@@ -49,7 +49,7 @@
                             <td>Henderlite</td>
                             <td><span class="badge rounded-pill badge-light-success me-1">Completed</span></td>
                             <td>
-                                <a class="btn btn-success" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}"></i>View</a>
 
                             </td>
                         </tr>
@@ -62,7 +62,7 @@
                             <td>Laser</td>
                             <td><span class="badge rounded-pill badge-light-info me-1">Scheduled</span></td>
                             <td>
-                                <a class="btn btn-info" href="{{route('admin.contracts.view')}}">View</a>
+                                <a class="btn btn-primary" href="{{route('admin.contracts.view')}}">View</a>
                             </td>
                         </tr>
 
