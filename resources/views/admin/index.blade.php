@@ -31,7 +31,7 @@
                         <tr>
                             <td>1</td>
                             <td>
-                                <img src="{{asset('backend/ed_muna/pic.jpeg')}}" height="60" width="70">
+                                <img src="{{asset('backend/ed_muna/pic.jpeg')}}" height="60" width="70" style="object-fit: cover">
                             </td>
                             <td>Ed</td>
                             <td>Muna</td>
@@ -43,7 +43,7 @@
                         <tr>
                             <td>2</td>
                             <td>
-                                <img src="{{asset('backend/ed_muna/pic2.jpeg')}}" height="60" width="70">
+                                <img src="{{asset('backend/ed_muna/pic2.jpeg')}}" height="60" width="70" style="object-fit: cover">
                             </td>
                             <td>Craig</td>
                             <td>Henderlite</td>
@@ -56,7 +56,7 @@
                         <tr>
                             <td>3</td>
                             <td>
-                                <img src="{{asset('backend/ed_muna/pic3.jpg')}}" height="60" width="70">
+                                <img src="{{asset('backend/ed_muna/pic3.jpg')}}" height="60" width="70" style="object-fit: cover">
                             </td>
                             <td>Tina</td>
                             <td>Laser</td>
